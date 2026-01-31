@@ -2,7 +2,7 @@
 
 VibeMotion is a modern, high-performance animation website built with **Next.js 14**, **Tailwind CSS**, and **Framer Motion**. It features immersive scroll-driven animations, dynamic 3D-style product presentations, and smooth page transitions to create an engaging user experience for product showcases.
 
-![Project Banner](https://via.placeholder.com/1200x600?text=VibeMotion+Preview) 
+![Project Banner](https://vibemotion3d.netlify.app/) 
 *(Note: Replace with actual screenshot)*
 
 ## 🚀 Features
